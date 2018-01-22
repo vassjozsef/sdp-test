@@ -1,0 +1,14 @@
+{
+  "name": "test-ice",
+  "version": "0.0.1",
+  "description": "Test ICE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vassjozsef/test-ice"
+  },
+  "author": "Jozsef Vass",
+  "license": "MIT",
+  "dependencies": {
+    "sdp-transform": "2.3.0"
+  }
+}
